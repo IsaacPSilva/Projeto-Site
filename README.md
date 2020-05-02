@@ -1,4 +1,6 @@
 # Projeto-Site
  Site Git e GitHub [isaac]
 
-Meu primeiro repositorio em GitHub
+Meu primeiro repositório em GitHub
+
+Estou avançando a cada dia.
